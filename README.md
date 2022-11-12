@@ -2,7 +2,7 @@
 Simple Turret Shooting Game (FPS)
 
 # #AboutTheProject
-This is a hobby project made during 8 hourse
+This is a hobby project made during 8 hours
 
 The project's primary focus is to create a FPS game. The player is controlling a turret, the enemies keep spawning some distance away. They start moving from cover to cover towards the player position. If enemies have reached the player enough times, the game is over. In the end, the player should get a score.
 
